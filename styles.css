@@ -1,0 +1,14 @@
+body {
+  background-color: #fff9ca;
+}
+.row {
+  align-items: center;
+}
+.stylise {
+  padding-bottom: 10px;
+  text-align: center;
+  font-size: 20px;
+  color: rgb(198, 128, 14);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  float: inline-end;
+}
